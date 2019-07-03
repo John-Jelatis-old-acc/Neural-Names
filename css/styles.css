@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
+html {
+	background-color: #CDF;
+	color: #334;
+	padding: 15vh 15vw;
+}
+
+h1 {
+	font-size: 5vmax;
+	margin-bottom: 0;
+}
+
+h2 {
+	font-size: 2vmax;
+	margin-top: 0;
+}
+
+label {
+	font-size: 2.5vmax;
+}
+
+#name {
+	display: inline-block;
+	text-decoration: underline;
+	text-decoration-style: dashed;
+	text-decoration-color: rgba(0, 0, 0, 0.3);
+	min-width: 5vmax;
+}
+
+* {
+	font-family: 'Josefin Sans';
+}
